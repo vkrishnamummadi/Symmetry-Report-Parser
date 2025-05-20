@@ -1,0 +1,2574 @@
+05/13/2025                    Cards Listing                      14:51:56 
+
+Card Holders - Wash. Co.:
+
+Selected By Personal Data: DEPARTMENT - Facilities*
+
+Last Name:	ABM JANITORIAL
+First Name:	(ALEX) (ALEJANDRINO SANCHEZ-BARRERA
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	10875
+Employee Ref:	
+Normal Rights
+	Access Codes
+		JANITORIAL COUNTY MASTER
+	Reader Groups
+		JANITORIAL LEC ACCESS @ 0000513#(C1) Always
+		JANITORS CHILD PROTECTION ACCESS- ADAMS  @ 0000513#(C1) Always
+	Readers
+		PSB 1ST FLOOR AUDITORIUM @ 0000513#(C1) Always
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+		SCE 1ST FL LACTATION ROOM @ 0000513#(C1) Always
+
+Last Name:	ABM JANITORIAL
+First Name:	ADRIANA MENDOZA
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	10853
+Employee Ref:	
+Normal Rights
+	Access Codes
+		JANITORIAL COUNTY MASTER
+	Readers
+		COURTHOUSE LOADING DOCK EXIT 2100 @ 0000513#(C1) Always
+		COURTHOUSE LOADING DOCK ENTRY 2100 @ 0000513#(C1) Always
+		PSB 1ST FLOOR AUDITORIUM @ 0000513#(C1) Always
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+
+Last Name:	ABM JANITORIAL
+First Name:	BUCKMAN, CHARLES
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	10899
+Employee Ref:	
+Normal Rights
+	Access Codes
+		JANITORIAL COUNTY MASTER
+	Reader Groups
+		Walnut St. All @ 0000513#(C1) Always
+	Readers
+		COURTHOUSE LOADING DOCK EXIT 2100 @ 0000513#(C1) Always
+		COURTHOUSE LOADING DOCK ENTRY 2100 @ 0000513#(C1) Always
+		PSB 1ST FLOOR AUDITORIUM @ 0000513#(C1) Always
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+
+Last Name:	ABM JANITORIAL
+First Name:	JENSEN, STUART
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	10867
+Employee Ref:	
+Normal Rights
+	Access Codes
+		JANITORIAL COUNTY MASTER
+	Readers
+		PSB 1ST FLOOR AUDITORIUM @ 0000513#(C1) Always
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+
+Last Name:	ABM JANITORIAL
+First Name:	JOSUE CHAVEZ
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	10919
+Employee Ref:	
+Normal Rights
+	Access Codes
+		JANITORIAL COUNTY MASTER
+	Readers
+		COURTHOUSE LOADING DOCK EXIT 2100 @ 0000513#(C1) Always
+		COURTHOUSE LOADING DOCK ENTRY 2100 @ 0000513#(C1) Always
+		PSB 1ST FLOOR AUDITORIUM @ 0000513#(C1) Always
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+
+Last Name:	ABM JANITORIAL
+First Name:	LANGWELL, MICHAEL
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	10870
+Employee Ref:	
+Normal Rights
+	Access Codes
+		JANITORIAL COUNTY MASTER
+	Reader Groups
+		JANITORIAL LEC ACCESS @ 0000513#(C1) Always
+	Readers
+		PSB 1ST FLOOR AUDITORIUM @ 0000513#(C1) Always
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+
+Last Name:	ABM JANITORIAL
+First Name:	LI, LIDIYA
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	10900
+Employee Ref:	
+Normal Rights
+	Reader Groups
+		JANITORIAL LEC ACCESS @ 0000513#(C1) Always
+		JANITORS CHILD PROTECTION ACCESS- ADAMS  @ 0000513#(C1) Always
+		abm - jsb @ ABM RESTRICTIONS
+	Readers
+		PSB 1ST FLOOR AUDITORIUM @ 0000513#(C1) Always
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+		SCE 1ST FL LACTATION ROOM @ 0000513#(C1) Always
+
+Last Name:	ABM JANITORIAL
+First Name:	Lopez Avalos,  Ezequiel
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	15122
+Employee Ref:	
+Normal Rights
+	Access Codes
+		JANITORIAL COUNTY MASTER
+	Reader Groups
+		JANITORIAL LEC ACCESS @ 0000513#(C1) Always
+	Readers
+		COURTHOUSE LOADING DOCK EXIT 2100 @ 0000513#(C1) Always
+		COURTHOUSE LOADING DOCK ENTRY 2100 @ 0000513#(C1) Always
+		PSB 1ST FLOOR AUDITORIUM @ 0000513#(C1) Always
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+
+Last Name:	ABM JANITORIAL
+First Name:	MANUELA CALDERON GARCIA
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	10877
+Employee Ref:	
+Normal Rights
+	Access Codes
+		JANITORIAL COUNTY MASTER
+	Readers
+		PSB 1ST FLOOR AUDITORIUM @ 0000513#(C1) Always
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+
+Last Name:	ABM JANITORIAL
+First Name:	MARTIN, TERRY
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	10738
+Employee Ref:	
+Normal Rights
+	Access Codes
+		JANITORIAL COUNTY MASTER
+	Readers
+		COURTHOUSE LOADING DOCK EXIT 2100 @ 0000513#(C1) Always
+		COURTHOUSE LOADING DOCK ENTRY 2100 @ 0000513#(C1) Always
+		PSB 1ST FLOOR AUDITORIUM @ 0000513#(C1) Always
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+
+Last Name:	ABM JANITORIAL
+First Name:	MENDOZA-PINA, MARIA
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	10861
+Employee Ref:	
+Normal Rights
+	Access Codes
+		JANITORIAL COUNTY MASTER
+	Readers
+		COURTHOUSE LOADING DOCK EXIT 2100 @ 0000513#(C1) Always
+		COURTHOUSE LOADING DOCK ENTRY 2100 @ 0000513#(C1) Always
+		PSB 1ST FLOOR AUDITORIUM @ 0000513#(C1) Always
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+
+Last Name:	ABM JANITORIAL
+First Name:	SKINNER, RICHARD
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	8446
+	Card Number:(2)	10857
+	Card Number:(3)	11386
+Employee Ref:	
+Normal Rights
+	Access Codes
+		JANITORIAL COUNTY MASTER
+		WINGSPAN MASTER
+	Reader Groups
+		JANITORS CHILD PROTECTION ACCESS- ADAMS  @ 0000513#(C1) Always
+	Readers
+		PSB 1ST FLOOR AUDITORIUM @ 0000513#(C1) Always
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+		SCE 1ST FL LACTATION ROOM @ 0000513#(C1) Always
+
+Last Name:	ADAM
+First Name:	JAMES
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	9183
+Employee Ref:	
+Normal Rights
+	Access Codes
+		MASTER
+	Readers
+		COURTHOUSE LOADING DOCK EXIT 2100 @ 0000513#(C1) Always
+		COURTHOUSE LOADING DOCK ENTRY 2100 @ 0000513#(C1) Always
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+		JAIL 1542  PROPERTY ROOM INNER @ 0000513#(C1) Always
+		JAIL 1542  PROPERTY ROOM OUTER @ 0000513#(C1) Always
+		JAIL 1551  PROPERTY NORTH @ 0000513#(C1) Always
+
+Last Name:	ALVARADO
+First Name:	DANIELLA
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	18680
+Employee Ref:	
+Normal Rights
+	Access Codes
+		WINGSPAN OFFICE AND EVENT CTR
+
+Last Name:	ANDREAS
+First Name:	MATT
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	10086
+Employee Ref:	5981
+Normal Rights
+	Reader Groups
+		METZGER PARK SHARED @ 0000513#(C1) Always
+	Readers
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+
+Last Name:	BAUMGARTNER
+First Name:	LINDA
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	9068
+Employee Ref:	38
+Normal Rights
+	Access Codes
+		HHS 1890 BUILDING
+		LUT ADAMS CROSSING
+		WINGSPAN MASTER
+		MASTER
+	Reader Groups
+		FMB ALL DOORS @ 0000513#(C1) Always
+	Readers
+		COURTHOUSE LOADING DOCK EXIT 2100 @ 0000513#(C1) Always
+		COURTHOUSE LOADING DOCK ENTRY 2100 @ 0000513#(C1) Always
+		F&PS FRONT DOOR @ 0000513#(C1) Always
+		F&PS-2ND FLOOR NORTH ENTRY @ 0000513#(C1) Always
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+		WSCC 1205 OFFICE @ 0000513#(C1) Always
+		F&PS BACK DOOR @ 0000513#(C1) Always
+
+Last Name:	BELAND
+First Name:	ANDREW
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	20037
+Employee Ref:	
+Normal Rights
+	Access Codes
+		IS MASTER MINUS CHILD PROTECTION
+	Reader Groups
+		F&PS P-5 GATE @ 0000513#(C1) Always
+	Readers
+		COURTHOUSE LOADING DOCK EXIT 2100 @ 0000513#(C1) Always
+		COURTHOUSE LOADING DOCK ENTRY 2100 @ 0000513#(C1) Always
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+
+Last Name:	BRANHAM
+First Name:	MARCIE
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	8670
+	Card Number:(2)	18329
+Employee Ref:	1055
+Normal Rights
+	Access Codes
+		PSB LUT NEW
+		LUT ADAMS CROSSING
+		SUPPORT SERVICES W FILE ROOM
+	Reader Groups
+		WALNUT ST LUT-OPS @ 0000513#(C1) Always
+		WALNUT ST LUT-CONST @ 0000513#(C1) Always
+		PSB LUT @ 0000513#(C1) Always
+		FMB ALL DOORS @ 0000513#(C1) Always
+		PSB SUITE 270 @ 0000513#(C1) Always
+	Readers
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+
+Last Name:	BRANHAM
+First Name:	TONY
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	7972
+Employee Ref:	4727
+Normal Rights
+	Reader Groups
+		FMB ALL DOORS @ 0000513#(C1) Always
+		METZGER PARK SHARED @ 0000513#(C1) Always
+	Readers
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+
+Last Name:	BROOKS
+First Name:	TRAVIS
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	10078
+	Card Number:(2)	10091
+Employee Ref:	4205
+Normal Rights
+	Access Codes
+		CENTRAL SERVICES
+		ADAMS CROSSING HOUSING ALWAYS
+		MASTER
+	Reader Groups
+		Jail 1718 Receiving @ CENTRAL SERVICE LIMITED M-F 06:00-18:30
+		Jail Dock Gate @ CENTRAL SERVICE LIMITED M-F 06:00-18:30
+		Jail Patrol Gate East Entry @ CENTRAL SERVICE LIMITED M-F 06:00-18:30
+		Jail Patrol Gate East Exit @ CENTRAL SERVICE LIMITED M-F 06:00-18:30
+		Jail Patrol Gate S.E. Entry @ CENTRAL SERVICE LIMITED M-F 06:00-18:30
+		Jail Patrol Gate S.E. Exit @ CENTRAL SERVICE LIMITED M-F 06:00-18:30
+		Jail Patrol Gate S.W. Entry @ CENTRAL SERVICE LIMITED M-F 06:00-18:30
+		Jail Patrol Gate S.W. Exit @ CENTRAL SERVICE LIMITED M-F 06:00-18:30
+		MULTNOMAH COUNTY @ CENTRAL SERVICE LIMITED M-F 06:00-18:30
+		PSB SUITE 270 @ CENTRAL SERVICE LIMITED M-F 06:00-18:30
+		HARKINS HOUSE STAFF @ CENTRAL SERVICE LIMITED M-F 06:00-18:30
+		County Corrections - All Readers @ 0000513#(C1) Always
+		WINGSPAN EVENT CENTER @ 0000513#(C1) Always
+		WINGSPAN GATES @ 0000513#(C1) Always
+	Readers
+		COURTHOUSE LOADING DOCK EXIT 2100 @ 0000513#(C1) Always
+		COURTHOUSE LOADING DOCK ENTRY 2100 @ 0000513#(C1) Always
+		SCE FRONT ENTRY * @ 0000513#(C1) Always
+		SCE SO LOBBY TO ADMIN @ 0000513#(C1) Always
+		SCE SO MAIN LOBBY EXT. * @ 0000513#(C1) Always
+		F&PS FRONT DOOR @ 0000513#(C1) Always
+		EYP DAVS MAIN ENTRY @ 0000513#(C1) Always
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+		EYP 100 LIFEWORKS MAIN ENTRY @ 0000513#(C1) Always
+		EYP 150 HHS ENTRY LOBBY @ 0000513#(C1) Always
+		EYP DAVS BACK DOOR @ 0000513#(C1) Always
+		JAIL LEC 2076 HALLWAY @ 0000513#(C1) Always
+		JAIL LEC 2088 BREAK VENDING ROOM @ 0000513#(C1) Always
+		JAIL LEC 2047 DETECTIVES @ 0000513#(C1) Always
+		F&PS Finance @ 0000513#(C1) Always
+		F&PS BACK DOOR @ 0000513#(C1) Always
+
+Last Name:	BROWN
+First Name:	LAUREL
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	18852
+Employee Ref:	
+Normal Rights
+	Access Codes
+		MASTER
+		WINGSPAN MASTER
+	Reader Groups
+		Everyone Gets @ 0000513#(C1) Always
+		FMB ALL DOORS @ 0000513#(C1) Always
+		PSB PERIMETER DOORS @ 0000513#(C1) Always
+		MASTER NO CALEA @ 0000513#(C1) Always
+	Readers
+		COURTHOUSE LOADING DOCK EXIT 2100 @ 0000513#(C1) Always
+		COURTHOUSE LOADING DOCK ENTRY 2100 @ 0000513#(C1) Always
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+		SCE 1ST FL ITS OFFICE @ 0000513#(C1) Always
+		SCE 1ST FL LACTATION ROOM @ 0000513#(C1) Always
+		SCE 1ST FL 214 COMMISIONERS OFFICE @ 0000513#(C1) Always
+		SCE 1ST FL CAO CONFERANCE RM @ 0000513#(C1) Always
+
+Last Name:	CAMERON
+First Name:	ANDY
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	7513
+Employee Ref:	4569
+Normal Rights
+	Reader Groups
+		FMB ALL DOORS @ 0000513#(C1) Always
+		PSB PERIMETER DOORS @ 0000513#(C1) Always
+		METZGER PARK SHARED @ 0000513#(C1) Always
+	Readers
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+
+Last Name:	CANNARD
+First Name:	PAUL
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	7598
+Employee Ref:	2794
+Normal Rights
+	Access Codes
+		CENTRAL SERVICES
+		ADAMS CROSSING HOUSING ALWAYS
+		MASTER
+	Reader Groups
+		CENTRAL SERVICE LIMITED @ CENTRAL SERVICE LIMITED M-F 06:00-18:30
+		PSB SUITE 270 @ CENTRAL SERVICE LIMITED M-F 06:00-18:30
+		HARKINS HOUSE STAFF @ CENTRAL SERVICE LIMITED M-F 06:00-18:30
+		WINGSPAN COURTS ACCESS @ WINGSPAN RESTRICTED HOURS
+	Readers
+		F&PS FRONT DOOR @ 0000513#(C1) Always
+		EYP DAVS MAIN ENTRY @ 0000513#(C1) Always
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+		EYP 100 LIFEWORKS MAIN ENTRY @ 0000513#(C1) Always
+		EYP 150 HHS ENTRY LOBBY @ 0000513#(C1) Always
+		EYP DAVS BACK DOOR @ 0000513#(C1) Always
+		F&PS Finance @ 0000513#(C1) Always
+		F&PS BACK DOOR @ 0000513#(C1) Always
+
+Last Name:	CAPPPONI
+First Name:	DONALD
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	8989
+	Card Number:(2)	10143
+Employee Ref:	
+Normal Rights
+	Reader Groups
+		MASTER NO CALEA @ 0000513#(C1) Always
+	Readers
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+
+Last Name:	CAPPUCINO CORNER
+First Name:	ERIKA MAVROS
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	10019
+	Card Number:(2)	17837
+Employee Ref:	
+Normal Rights
+	Access Codes
+		CAPPUCINO CORNER
+	Readers
+		WSCC BACK DOOR @ 0000513#(C1) Always
+		WSCC ADA FRONT DOOR ENTRANCE @ 0000513#(C1) Always
+		F&PS FRONT DOOR @ 07:00-18:00  Mon-Fri AR
+		PSB 1ST FLOOR LOADING DOCK @ 0000513#(C1) Always
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+		F&PS BACK DOOR @ 0000513#(C1) Always
+
+Last Name:	CATALDO
+First Name:	ANNA
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	17843
+	Card Number:(2)	17860
+Employee Ref:	6580
+Normal Rights
+	Access Codes
+		MASTER
+	Reader Groups
+		County Corrections - All Readers @ 0000513#(C1) Always
+		PSTC ALL @ 0000513#(C1) Always
+	Readers
+		COURTHOUSE LOADING DOCK EXIT 2100 @ 0000513#(C1) Always
+		COURTHOUSE LOADING DOCK ENTRY 2100 @ 0000513#(C1) Always
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+		PSTC HALL DOOR H4-H7 @ 0000513#(C1) Always
+
+Last Name:	CHENG
+First Name:	JOSHUA
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	18990
+Employee Ref:	
+Normal Rights
+	Reader Groups
+		FMB ALL DOORS @ 0000513#(C1) Always
+	Readers
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+
+Last Name:	CHOATE
+First Name:	JASON
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	17290
+Employee Ref:	
+Normal Rights
+	Access Codes
+		CENTRAL SERVICES
+		MASTER
+	Readers
+		COURTHOUSE LOADING DOCK EXIT 2100 @ 0000513#(C1) Always
+		COURTHOUSE LOADING DOCK ENTRY 2100 @ 0000513#(C1) Always
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+
+Last Name:	CHURCHILL
+First Name:	CORY
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	9106
+	Card Number:(2)	20001
+Employee Ref:	3478
+Normal Rights
+	Access Codes
+		MASTER
+	Reader Groups
+		County Corrections - All Readers @ 0000513#(C1) Always
+	Readers
+		COURTHOUSE LOADING DOCK EXIT 2100 @ 0000513#(C1) Always
+		COURTHOUSE LOADING DOCK ENTRY 2100 @ 0000513#(C1) Always
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+		WSC 2100 #2 DATA CENTER EAST @ 0000513#(C1) Always
+		WSC 2100 #2 DATA CENTER WEST @ 0000513#(C1) Always
+		JAIL 1819 POD 5 BREAK ROOM @ 0000513#(C1) Always
+		OLD JAIL BASEMENT KEYSHOP @ 0000513#(C1) Always
+
+Last Name:	CLOUD
+First Name:	WILTON
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	9847
+Employee Ref:	
+Normal Rights
+	Reader Groups
+		METZGER PARK SHARED @ 0000513#(C1) Always
+	Readers
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+
+Last Name:	CLOUGH
+First Name:	JARED
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	10043
+	Card Number:(2)	20005
+Employee Ref:	5696
+Normal Rights
+	Reader Groups
+		FMB ALL DOORS @ 0000513#(C1) Always
+		METZGER PARK SHARED @ 0000513#(C1) Always
+	Readers
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+
+Last Name:	CONTRACTOR
+First Name:	CENTRIC ELEVATOR
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	2558
+Employee Ref:	
+Normal Rights
+	Reader Groups
+		Jail All @ 0000513#(C1) Always
+		Jail Booking @ 0000513#(C1) Always
+		Jail Infirmary @ 0000513#(C1) Always
+		CONTRACTOR MASTER @ 0000513#(C1) Always
+		HARKINS HOUSE STAFF @ 0000513#(C1) Always
+	Readers
+		COURTHOUSE LOADING DOCK EXIT 2100 @ 0000513#(C1) Always
+		COURTHOUSE LOADING DOCK ENTRY 2100 @ 0000513#(C1) Always
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+		PSB 1ST FL STAIR B EXT @ 0000513#(C1) Always
+		PSB 1ST FL STAIR B INT @ 0000513#(C1) Always
+
+Last Name:	CONTRACTOR
+First Name:	FMB CHECK OUT BOX #12
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	8563
+Employee Ref:	
+Normal Rights
+	Reader Groups
+		Walnut St. All @ 0000513#(C1) Always
+		HAWTHORN GROUP A @ 0000513#(C1) Always
+	Readers
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+
+Last Name:	CONTRACTOR
+First Name:	FMB CHECK OUT BOX #22
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	9129
+Employee Ref:	
+Normal Rights
+	Access Codes
+		MASTER
+	Readers
+		COURTHOUSE LOADING DOCK EXIT 2100 @ 0000513#(C1) Always
+		COURTHOUSE LOADING DOCK ENTRY 2100 @ 0000513#(C1) Always
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+
+Last Name:	CONTRACTOR
+First Name:	FMB CHECK OUT BOX #23
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	8570
+Employee Ref:	
+Normal Rights
+	Reader Groups
+		CONTRACTOR MASTER @ 0000513#(C1) Always
+		FMB ALL DOORS @ 0000513#(C1) Always
+		PSTC 1  BASIC @ 0000513#(C1) Always
+		PSTC 4 RANGE NEW @ 0000513#(C1) Always
+		PSTC 5 CHECK POINT @ 0000513#(C1) Always
+		PSTC 7 JANITOR ACCESS @ 0000513#(C1) Always
+		PSTC ENTRY READER GROUP (BUTTON) @ 0000513#(C1) Always
+		MASTER (USE ACCESS CODE) @ 0000513#(C1) Always
+		WINGSPAN ALL READERS 2 @ 0000513#(C1) Always
+	Readers
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+		JAIL 1726  MAINTENANCE SHOP @ 0000513#(C1) Always
+
+Last Name:	CONTRACTOR
+First Name:	ROSE CITY MOVERS
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	3879
+Employee Ref:	
+Normal Rights
+	Reader Groups
+		MASTER NO CALEA @ 0000513#(C1) Always
+	Readers
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+
+Last Name:	CONTRACTOR
+First Name:	ROSE CITY MOVERS 2
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	9420
+Employee Ref:	
+Normal Rights
+	Reader Groups
+		MASTER NO CALEA @ 0000513#(C1) Always
+	Readers
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+
+Last Name:	CONTRACTOR
+First Name:	STEELE ELECTRIC
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	10069
+Employee Ref:	
+Normal Rights
+	Access Codes
+		MASTER
+	Reader Groups
+		J.S.B. @ 0000513#(C1) Always
+		CONTRACTOR MASTER @ 0000513#(C1) Always
+		PSB SIESMIC @ 0000513#(C1) Always
+	Readers
+		OLD JAIL NORTH BASEMENT ENTRY @ 0000513#(C1) Always
+		OLD JAIL S. BASEMENT TO CH BASEMENT @ 0000513#(C1) Always
+		JSB BREEZEWAY EAST 2100 * @ 0000513#(C1) Always
+		JSB BREEZEWAY WEST 2100 * @ 0000513#(C1) Always
+		JSB BSMT ELEVATOR @ 0000513#(C1) Always
+		JSB 1ST FLOOR ELEVATOR @ 0000513#(C1) Always
+		JSB 2ND FLOOR ELEVATOR @ 0000513#(C1) Always
+		JSB 3RD FLOOR ELEVATOR @ 0000513#(C1) Always
+		JSB 4TH FLOOR ELEVATOR @ 0000513#(C1) Always
+		JSB SECURED ELEVATOR LOBBY BSMT @ 0000513#(C1) Always
+		JSB 3RD FLOOR D.A. SECURED LOBBY EAST @ 0000513#(C1) Always
+		JSB 2ND FLOOR PROBATION CORRIDOR @ 0000513#(C1) Always
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+		PSTC EXIT STAIR 4 @ 24HRS M-F
+		PSTC HALL DOOR H4-H7 @ 24HRS M-F
+
+Last Name:	CONTRACTOR - FACILITIES
+First Name:	VAIL, JESSE
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	3020
+	Card Number:(2)	7544
+Employee Ref:	
+Normal Rights
+	Reader Groups
+		CONTRACTOR MASTER @ 0000513#(C1) Always
+	Readers
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+
+Last Name:	CONTRACTOR - NW COMMERCIAL
+First Name:	DANIEL JIMENEZ
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	17278
+Employee Ref:	
+Normal Rights
+	Reader Groups
+		MASTER NO CALEA @ 0000513#(C1) Always
+	Readers
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+		PSB BASEMENT B10 ITS STORAGE ROOM @ 0000513#(C1) Always
+
+Last Name:	CONTRACTOR - NW COMMERCIAL
+First Name:	EUFRACIO MARTIN GRANDADOD
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	10855
+Employee Ref:	
+Normal Rights
+	Reader Groups
+		MASTER NO CALEA @ 0000513#(C1) Always
+	Readers
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+		PSB BASEMENT B10 ITS STORAGE ROOM @ 0000513#(C1) Always
+
+Last Name:	CONTRACTOR - NW COMMERCIAL
+First Name:	GREGORY LAWLER
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	10879
+Employee Ref:	
+Normal Rights
+	Reader Groups
+		MASTER NO CALEA @ 0000513#(C1) Always
+	Readers
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+		PSB BASEMENT B10 ITS STORAGE ROOM @ 0000513#(C1) Always
+
+Last Name:	CROSBY
+First Name:	MATT
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	17296
+Employee Ref:	2824
+Normal Rights
+	Access Codes
+		MASTER
+	Reader Groups
+		County Corrections - All Readers @ 0000513#(C1) Always
+	Readers
+		COURTHOUSE LOADING DOCK EXIT 2100 @ 0000513#(C1) Always
+		COURTHOUSE LOADING DOCK ENTRY 2100 @ 0000513#(C1) Always
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+
+Last Name:	DILLOW
+First Name:	JESSE
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	17882
+Employee Ref:	
+Normal Rights
+	Access Codes
+		LUT WSC NEW
+		PSB LUT NEW
+	Readers
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+
+Last Name:	DRENNEN
+First Name:	MATTHEW
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	20012
+Employee Ref:	6076
+Normal Rights
+	Access Codes
+		MASTER
+		WINGSPAN MASTER
+	Readers
+		COURTHOUSE LOADING DOCK EXIT 2100 @ 0000513#(C1) Always
+		COURTHOUSE LOADING DOCK ENTRY 2100 @ 0000513#(C1) Always
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+
+Last Name:	DUNCAN
+First Name:	SCOT
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	10831
+	Card Number:(2)	20000
+Employee Ref:	5607
+Normal Rights
+	Access Codes
+		MASTER
+		PSTC ADMIN
+		ITS ACCESS
+		PSB LUT NEW
+	Reader Groups
+		Everyone Gets @ 0000513#(C1) Always
+	Readers
+		COURTHOUSE LOADING DOCK EXIT 2100 @ 0000513#(C1) Always
+		COURTHOUSE LOADING DOCK ENTRY 2100 @ 0000513#(C1) Always
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+		OLD JAIL BASEMENT KEYSHOP @ 0000513#(C1) Always
+
+Last Name:	FAITH
+First Name:	JAMES
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	10095
+	Card Number:(2)	17895
+Employee Ref:	5878
+Normal Rights
+	Access Codes
+		MASTER
+		WSCC
+	Readers
+		COURTHOUSE LOADING DOCK EXIT 2100 @ 0000513#(C1) Always
+		COURTHOUSE LOADING DOCK ENTRY 2100 @ 0000513#(C1) Always
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+		JAIL LEC 2053 LAW ENFORCEMENT TECHNOLOGY @ 0000513#(C1) Always
+
+Last Name:	FERY
+First Name:	DAVE
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	17844
+Employee Ref:	6575
+Normal Rights
+	Access Codes
+		MASTER
+	Reader Groups
+		County Corrections - All Readers @ 0000513#(C1) Always
+	Readers
+		COURTHOUSE LOADING DOCK EXIT 2100 @ 0000513#(C1) Always
+		COURTHOUSE LOADING DOCK ENTRY 2100 @ 0000513#(C1) Always
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+
+Last Name:	FIERRO
+First Name:	JADE
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	20140
+Employee Ref:	
+Normal Rights
+	Access Codes
+		MASTER
+	Readers
+		COURTHOUSE LOADING DOCK EXIT 2100 @ 0000513#(C1) Always
+		COURTHOUSE LOADING DOCK ENTRY 2100 @ 0000513#(C1) Always
+		PSB 1ST FLOOR AUDITORIUM @ 07:00-18:00  Mon-Fri AR
+
+Last Name:	FIRE
+First Name:	HILLSBORO
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	1351
+Employee Ref:	
+Normal Rights
+	Reader Groups
+		General @ 0000513#(C1) Always
+	Readers
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+
+Last Name:	FIRE DEPT. HILLSBORO
+First Name:	KNOX BOX MC
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	6485
+Employee Ref:	
+Normal Rights
+	Reader Groups
+		Jail All @ 0000513#(C1) Always
+	Readers
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+		JAIL LEC 1022 FORENSICS EXT DOOR @ 0000513#(C1) Always
+		JAIL LEC 1042 PATROL STORAGE @ 0000513#(C1) Always
+		JAIL 1542  PROPERTY ROOM INNER @ 0000513#(C1) Always
+		JAIL 1542  PROPERTY ROOM OUTER @ 0000513#(C1) Always
+		JAIL 1551  PROPERTY NORTH @ 0000513#(C1) Always
+		JAIL 1888 SGTS OPERATIONS @ 0000513#(C1) Always
+		JAIL LEC 1019 FORENSICS @ 0000513#(C1) Always
+		JAIL LEC 1020 FORENSICS LAB @ 0000513#(C1) Always
+		JAIL LEC 1021 FORENSICS BAY TO LAB @ 0000513#(C1) Always
+		JAIL LEC 2042 DETECTIVES @ 0000513#(C1) Always
+		JAIL LEC 2037 DETECTIVES LOBBY TO ADMIN @ 0000513#(C1) Always
+		JAIL LEC 2053 LAW ENFORCEMENT TECHNOLOGY @ 0000513#(C1) Always
+		JAIL LEC 1033 FORENSIC DOCUMENTATION @ 0000513#(C1) Always
+
+Last Name:	FMB CHECKOUT # 47
+First Name:	CONTRACTOR
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	8515
+Employee Ref:	
+Normal Rights
+	Access Codes
+		MASTER
+	Readers
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+
+Last Name:	FORTUNE
+First Name:	AUDRA
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	17299
+Employee Ref:	5106
+Normal Rights
+	Access Codes
+		WSCC
+		PSB 3RD FL 380 EQUITY AND INCLUSION
+		PSB A&T
+		PSB CAO
+		PSB HEALTH
+		PSB LUT NEW
+		PSB-DCAP
+	Reader Groups
+		FMB ALL DOORS @ 0000513#(C1) Always
+		PSB PERIMETER DOORS @ 0000513#(C1) Always
+		PSB SUITE 270 @ 07:00-18:00  Mon-Fri AR
+		JSB READER GROUP @ 0000513#(C1) Always
+		JUV CRISIS RESPONSE @ 0000513#(C1) Always
+		JUVE-JSB @ 0000513#(C1) Always
+		JUVENILE ATTORNEY @ 0000513#(C1) Always
+		JUVENILE COURT CONFERENCE @ 0000513#(C1) Always
+		JUVENILE EXTERIOR DOORS @ 0000513#(C1) Always
+		JUVENILE HOUSING @ 0000513#(C1) Always
+		JUVENILE-FMB @ 0000513#(C1) Always
+		Juv North Entry @ 0000513#(C1) Always
+		JuvServ @ 0000513#(C1) Always
+		Juvi WCLLS @ 0000513#(C1) Always
+	Readers
+		COURTHOUSE LOADING DOCK EXIT 2100 @ 0000513#(C1) Always
+		COURTHOUSE LOADING DOCK ENTRY 2100 @ 0000513#(C1) Always
+		COURTHOUSE ATTORNEY ENTRY @ 07:30am-06:00pm
+		COURTHOUSE ATTORNEY EXIT @ 07:30am-06:00pm
+		HARKINS CENTRAL SERVICES GATE  P2 @ 0000513#(C1) Always
+		WSC 2100 #1 EQUIPMENT SHOP NORTH @ 5:30-18:00
+		WSC 2100 #1 EQUIPMENT SHOP SOUTH @ 5:30-18:00
+		WSC 2100 #1 AUTO SHOP NORTH @ 5:30-18:00
+		WSC 2100 #1 AUTO SHOP SOUTH @ 5:30-18:00
+		WSC 2100 #2 BACK DOOR @ 5:30-18:00
+		WSC 2100 #2 LUNCH ROOM @ 5:30-18:00
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+		WSC 2100 #2 EAST ENTRY @ 5:30-18:00
+		WSC 2100 #2  GATE ENTRY @ 5:30-18:00
+		WSC 2100 #2  GATE EXIT @ 5:30-18:00
+		WSC 164 FLEET SERVICE CENTER @ 5:30-18:00
+		WSC 126 FLEET ADMINISTRATION B @ 5:30-18:00
+		WSC 126 FLEET ADMINISTRATION A @ 5:30-18:00
+
+Last Name:	FOWLES
+First Name:	SCOTT
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	20059
+Employee Ref:	
+Normal Rights
+	Access Codes
+		MASTER
+	Readers
+		COURTHOUSE LOADING DOCK EXIT 2100 @ 0000513#(C1) Always
+		COURTHOUSE LOADING DOCK ENTRY 2100 @ 0000513#(C1) Always
+
+Last Name:	FOX
+First Name:	ADAM
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	9163
+	Card Number:(2)	17886
+	Card Number:(3)	17919
+Employee Ref:	5550
+Normal Rights
+	Access Codes
+		MASTER
+	Readers
+		COURTHOUSE LOADING DOCK EXIT 2100 @ 0000513#(C1) Always
+		COURTHOUSE LOADING DOCK ENTRY 2100 @ 0000513#(C1) Always
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+
+Last Name:	GATE CARD
+First Name:	GATE CARD 8
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	5612
+Employee Ref:	2688
+Normal Rights
+	Reader Groups
+		Walnut Street Gate Entry @ 0000513#(C1) Always
+	Readers
+		SCE SO SALLY PORT OUT @ 0000513#(C1) Always
+		SCE SP SALLY PORT BOTH GATES @ 0000513#(C1) Always
+		SCE SO SALLY PORT IN @ 0000513#(C1) Always
+		F&PS P-5 SOUTH GATE @ 0000513#(C1) Always
+		F&PS P-5 NORTH GATE @ 0000513#(C1) Always
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+		JAIL LEC GATE ADAMS ST. ENTRY @ 0000513#(C1) Always
+		JAIL LEC GATE ADAMS ST. EXIT @ 0000513#(C1) Always
+		JAIL LEC GATE BASELINE ST. ENTRY @ 0000513#(C1) Always
+		JAIL LEC GATE BASELINE ST. EXIT @ 0000513#(C1) Always
+		JAIL GATE RECEIVING @ 0000513#(C1) Always
+		JAIL PATROL GATE  DENNIS ST. ENTRY @ 0000513#(C1) Always
+		JAIL BOARD 1 INPUT 2 @ 0000513#(C1) Always
+
+Last Name:	GATE CARD
+First Name:	HVAC #10
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	4881
+Employee Ref:	
+Normal Rights
+	Reader Groups
+		F&PS P-5 GATE @ 0000513#(C1) Always
+		Walnut Street Gate Entry @ 0000513#(C1) Always
+	Readers
+		HARKINS CENTRAL SERVICES GATE  P2 @ 0000513#(C1) Always
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+		JAIL LEC GATE ADAMS ST. ENTRY @ 0000513#(C1) Always
+		JAIL LEC GATE ADAMS ST. EXIT @ 0000513#(C1) Always
+		JAIL LEC GATE BASELINE ST. ENTRY @ 0000513#(C1) Always
+		JAIL LEC GATE BASELINE ST. EXIT @ 0000513#(C1) Always
+		JAIL GATE RECEIVING @ 0000513#(C1) Always
+		JAIL PATROL GATE  DENNIS ST. ENTRY @ 0000513#(C1) Always
+		JAIL BOARD 1 INPUT 2 @ 0000513#(C1) Always
+
+Last Name:	GATE CARD
+First Name:	PLUMBING VAN
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	5664
+Employee Ref:	
+Normal Rights
+	Reader Groups
+		Walnut Street Gate Entry @ 0000513#(C1) Always
+	Readers
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+		JAIL LEC GATE ADAMS ST. ENTRY @ 0000513#(C1) Always
+		JAIL LEC GATE ADAMS ST. EXIT @ 0000513#(C1) Always
+		JAIL LEC GATE BASELINE ST. ENTRY @ 0000513#(C1) Always
+		JAIL LEC GATE BASELINE ST. EXIT @ 0000513#(C1) Always
+		JAIL GATE RECEIVING @ 0000513#(C1) Always
+		JAIL PATROL GATE  DENNIS ST. ENTRY @ 0000513#(C1) Always
+		JAIL BOARD 1 INPUT 2 @ 0000513#(C1) Always
+
+Last Name:	GATE CARD
+First Name:	WSC TEMP
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	10213
+Employee Ref:	
+Normal Rights
+	Readers
+		HARKINS CENTRAL SERVICES GATE  P2 @ 0000513#(C1) Always
+		F&PS P-5 SOUTH GATE @ 0000513#(C1) Always
+		F&PS P-5 NORTH GATE @ 0000513#(C1) Always
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+		WSC 2100 #2  GATE ENTRY @ 0000513#(C1) Always
+		WSC 2100 #2  GATE EXIT @ 0000513#(C1) Always
+
+Last Name:	GERDES
+First Name:	MARTY
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	9178
+	Card Number:(2)	9196
+Employee Ref:	2488
+Normal Rights
+	Access Codes
+		MASTER
+	Reader Groups
+		County Corrections - All Readers @ 0000513#(C1) Always
+	Readers
+		COURTHOUSE LOADING DOCK EXIT 2100 @ 0000513#(C1) Always
+		COURTHOUSE LOADING DOCK ENTRY 2100 @ 0000513#(C1) Always
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+		WSC 2100 #2 DATA CENTER EAST @ 0000513#(C1) Always
+		WSC 2100 #2 DATA CENTER WEST @ 0000513#(C1) Always
+		OLD JAIL MFF ARMORY @ 0000513#(C1) Always
+		PSB 1ST FL 140 A&T VAULT RM @ 0000513#(C1) Always
+		PSTC  STAIR3 @ 0000513#(C1) Always
+
+Last Name:	GERIG
+First Name:	JOEL
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	5948
+Employee Ref:	3120
+Normal Rights
+	Reader Groups
+		FMB ALL DOORS @ 0000513#(C1) Always
+		METZGER PARK SHARED @ 0000513#(C1) Always
+	Readers
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+
+Last Name:	GLANZ
+First Name:	TERRY
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	7554
+Employee Ref:	2624
+Normal Rights
+	Access Codes
+		MASTER
+	Reader Groups
+		County Corrections - All Readers @ 0000513#(C1) Always
+	Readers
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+		WSC 2100 #2 DATA CENTER EAST @ 0000513#(C1) Always
+		WSC 2100 #2 DATA CENTER WEST @ 0000513#(C1) Always
+		JAIL 1542  PROPERTY ROOM INNER @ 0000513#(C1) Always
+		JAIL 1542  PROPERTY ROOM OUTER @ 0000513#(C1) Always
+		JAIL 1551  PROPERTY NORTH @ 0000513#(C1) Always
+		JAIL 1069  DVR ROOM ENTRY @ 0000513#(C1) Always
+		JAIL 1069  DVR ROOM EXIT @ 0000513#(C1) Always
+		JAIL LEC 2091 PUBLIC AFFARIRS STUDIO @ 0000513#(C1) Always
+		JAIL 1819 POD 5 BREAK ROOM @ 0000513#(C1) Always
+		OLD JAIL BASEMENT KEYSHOP @ 0000513#(C1) Always
+
+Last Name:	GODFREY
+First Name:	SIMON
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	20048
+Employee Ref:	
+Normal Rights
+	Access Codes
+		MASTER NO JAIL OR CHILD PROTECTION
+	Readers
+		COURTHOUSE LOADING DOCK EXIT 2100 @ 0000513#(C1) Always
+		COURTHOUSE LOADING DOCK ENTRY 2100 @ 0000513#(C1) Always
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+
+Last Name:	GONZALES
+First Name:	ANDREW
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	7580
+	Card Number:(2)	18020
+Employee Ref:	5475
+Normal Rights
+	Access Codes
+		CENTRAL SERVICES
+		ADAMS CROSSING HOUSING ALWAYS
+		MASTER
+	Reader Groups
+		CENTRAL SERVICE LIMITED @ 0000513#(C1) Always
+		County Corrections - All Readers @ 0000513#(C1) Always
+		JAIL GATES @ 0000513#(C1) Always
+		HARKINS HOUSE STAFF @ 0000513#(C1) Always
+		Jail 1718 Receiving @ 0000513#(C1) Always
+		Jail Dock Gate @ 0000513#(C1) Always
+		WINGSPAN EVENT CENTER @ 0000513#(C1) Always
+		WINGSPAN GATES @ 0000513#(C1) Always
+	Readers
+		COURTHOUSE LOADING DOCK EXIT 2100 @ 0000513#(C1) Always
+		COURTHOUSE LOADING DOCK ENTRY 2100 @ 0000513#(C1) Always
+		SCE FRONT ENTRY * @ 0000513#(C1) Always
+		SCE SO LOBBY TO ADMIN @ 0000513#(C1) Always
+		SCE SO MAIN LOBBY EXT. * @ 0000513#(C1) Always
+		WSCC BACK DOOR @ 0000513#(C1) Always
+		WSCC ADA FRONT DOOR ENTRANCE @ 0000513#(C1) Always
+		JUVENILE HOLDING EAST DOOR @ 0000513#(C1) Always
+		F&PS FRONT DOOR @ 0000513#(C1) Always
+		EYP DAVS MAIN ENTRY @ 0000513#(C1) Always
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+		EYP 100 LIFEWORKS MAIN ENTRY @ 0000513#(C1) Always
+		EYP 150 HHS ENTRY LOBBY @ 0000513#(C1) Always
+		EYP DAVS BACK DOOR @ 0000513#(C1) Always
+		JAIL LEC 2076 HALLWAY @ 0000513#(C1) Always
+		JAIL LEC 2088 BREAK VENDING ROOM @ 0000513#(C1) Always
+		F&PS Finance @ 0000513#(C1) Always
+		F&PS BACK DOOR @ 0000513#(C1) Always
+
+Last Name:	GRAY
+First Name:	BRETT
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	20004
+Employee Ref:	
+Normal Rights
+	Access Codes
+		MASTER
+	Readers
+		COURTHOUSE LOADING DOCK EXIT 2100 @ 0000513#(C1) Always
+		COURTHOUSE LOADING DOCK ENTRY 2100 @ 0000513#(C1) Always
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+
+Last Name:	HANUS
+First Name:	CRAIG
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	10087
+	Card Number:(2)	15099
+	Card Number:(3)	20055
+Employee Ref:	5581
+Normal Rights
+	Access Codes
+		MASTER
+	Readers
+		COURTHOUSE LOADING DOCK EXIT 2100 @ 0000513#(C1) Always
+		COURTHOUSE LOADING DOCK ENTRY 2100 @ 0000513#(C1) Always
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+
+Last Name:	HARDMAN
+First Name:	DAVID
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	1223
+	Card Number:(2)	9184
+	Card Number:(3)	9189
+Employee Ref:	4723
+Normal Rights
+	Access Codes
+		MASTER
+	Reader Groups
+		County Corrections - All Readers @ 0000513#(C1) Always
+		Washco-CATT @ 0000513#(C1) Always
+	Readers
+		COURTHOUSE LOADING DOCK EXIT 2100 @ 0000513#(C1) Always
+		COURTHOUSE LOADING DOCK ENTRY 2100 @ 0000513#(C1) Always
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+		WSC 2100 #2 DATA CENTER EAST @ 0000513#(C1) Always
+		WSC 2100 #2 DATA CENTER WEST @ 0000513#(C1) Always
+		WSC 2100 #2 EOC RM @ 0000513#(C1) Always
+		CENTRAL SERVICES READER 1 @ 0000513#(C1) Always
+		JAIL 1542  PROPERTY ROOM INNER @ 0000513#(C1) Always
+		JAIL 1542  PROPERTY ROOM OUTER @ 0000513#(C1) Always
+		JAIL 1551  PROPERTY NORTH @ 0000513#(C1) Always
+		JAIL 1069  DVR ROOM ENTRY @ 0000513#(C1) Always
+		JAIL 1069  DVR ROOM EXIT @ 0000513#(C1) Always
+		JAIL 1819 POD 5 BREAK ROOM @ 0000513#(C1) Always
+		PSB BASEMENT B14 ITS MAIN ENTRY @ 0000513#(C1) Always
+		PSB 3RD FL 392 LACTATION SUITE @ 0000513#(C1) Always
+		JUV 1ST FLOOR CONCILIATION DOOR @ 0000513#(C1) Always
+		PSB 3RD FLOOR SOUTH ITS ROOM @ 0000513#(C1) Always
+		PSTC 130 STORAGE ROOM (CORY STONE OFF) @ 0000513#(C1) Always
+		OLD JAIL BASEMENT KEYSHOP @ 0000513#(C1) Always
+		SCE 2ND FLOOR CART OFFICE @ 0000513#(C1) Always
+		PSB 3RD FL 346 CONFERANCE ROOM @ 0000513#(C1) Always
+		SCE Judges Chambers 2nd floor 2406 @ 0000513#(C1) Always
+		WSC120 @ 0000513#(C1) Always
+		JSB Basement Telco 4/1 spare @ 0000513#(C1) Always
+		JSB Basement 03J - Staff @ 0000513#(C1) Always
+		JSB Basement Victim Svcs to Staff @ 0000513#(C1) Always
+		JSB Basement Victim Svcs to Lobby @ 0000513#(C1) Always
+		JSB DA Basement   03J - Hall @ 0000513#(C1) Always
+		JAIL OUTSIDE BY BOILER ROOM @ 0000513#(C1) Always
+
+Last Name:	HART
+First Name:	GINA
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	19184
+Employee Ref:	
+Normal Rights
+	Access Codes
+		SUPPORT SERVICES W FILE ROOM
+	Reader Groups
+		FMB ALL DOORS @ 0000513#(C1) Always
+		PSB PERIMETER DOORS @ 0000513#(C1) Always
+		PSB SUITE 270 @ 0000513#(C1) Always
+	Readers
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+
+Last Name:	HAVENS
+First Name:	MYCHAEL
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	15336
+	Card Number:(2)	17892
+Employee Ref:	3897
+Normal Rights
+	Access Codes
+		MASTER
+	Reader Groups
+		County Corrections - All Readers @ 0000513#(C1) Always
+	Readers
+		COURTHOUSE LOADING DOCK EXIT 2100 @ 0000513#(C1) Always
+		COURTHOUSE LOADING DOCK ENTRY 2100 @ 0000513#(C1) Always
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+		WSC 2100 #2 DATA CENTER EAST @ 0000513#(C1) Always
+		WSC 2100 #2 DATA CENTER WEST @ 0000513#(C1) Always
+
+Last Name:	HAWTHORN CLINIC
+First Name:	SECURITY
+Middle Name:	GUARD
+Multiple Cards
+	Card Number:(1)	10576
+	Card Number:(2)	18626
+Employee Ref:	
+Normal Rights
+	Readers
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+		EYP 100 LIFEWORKS MAIN ENTRY @ 0000513#(C1) Always
+		EYP 103 LIFEWORKS ADMIN TO STAFF AREA @ 0000513#(C1) Always
+		EYP 104 LIFEWORKS LOBBY TO STAFF AREA @ 0000513#(C1) Always
+		EYP 122 LIFEWORKS SHERIFF ENTRY @ 0000513#(C1) Always
+		EYP 129 LIFEWORKS STAFF ROOM ENTRY @ 0000513#(C1) Always
+		EYP 137 LIFEWORKS TO HHS IN @ 0000513#(C1) Always
+		EYP 137 LIFEWORKS TO HHS OUT @ 0000513#(C1) Always
+		EYP 129C LIFEWORKS HALL TO STAFF AREA @ 0000513#(C1) Always
+		EYP 129A LIFEWORKS HALL TO STAFF AREA @ 0000513#(C1) Always
+		EYP 129B LIFEWORKS HALL TO STAFF AREA @ 0000513#(C1) Always
+		EYP 142 HHS LUNCH ROOM @ 0000513#(C1) Always
+		EYP 150 HHS ENTRY LOBBY @ 0000513#(C1) Always
+		EYP 168B HHS LOBBY TO OPEN OFFICE @ 0000513#(C1) Always
+		EYP 176B HHS CONFERENCE ROOM 40 OUT @ 0000513#(C1) Always
+		EYP 176B HHS CONFERENCE ROOM 40 IN @ 0000513#(C1) Always
+		EYP 177 FILE ROOM @ 0000513#(C1) Always
+		EYP 129D LIFEWORKS HALL TO STAFF AREA @ 0000513#(C1) Always
+		EYP 103A LIFEWORKS LOBBY TO RECEPTION @ 0000513#(C1) Always
+
+Last Name:	HEINAUER
+First Name:	BRAD
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	18681
+Employee Ref:	6650
+Normal Rights
+	Access Codes
+		FACILITIES OFFICE ONLY
+	Readers
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+		ADAMS ANNEX ENTRY LUT BLDG SERVICES @ 0000513#(C1) Always
+
+Last Name:	HELMS
+First Name:	NICOLE
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	20309
+Employee Ref:	
+Normal Rights
+	Reader Groups
+		Everyone Gets @ 0000513#(C1) Always
+		FMB ALL DOORS @ 0000513#(C1) Always
+	Readers
+		WSC 2100 #2 FRONT ENTRY DOORS @ 07:00-18:00  Mon-Fri AR
+
+Last Name:	HILL
+First Name:	BRANDON
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	9884
+Employee Ref:	5185
+Normal Rights
+	Access Codes
+		MASTER
+	Readers
+		COURTHOUSE LOADING DOCK EXIT 2100 @ 0000513#(C1) Always
+		COURTHOUSE LOADING DOCK ENTRY 2100 @ 0000513#(C1) Always
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+		ADAMS CROSSING 103 1ST FL CONFER INT DR @ 24HRS M-F
+		PSB 2ND FL 234-A TOUCHDOWN OFFICE @ 0000513#(C1) Always
+		PSB 2ND FL 234-B TOUCHDOWN OFFICE @ 0000513#(C1) Always
+
+Last Name:	HILL
+First Name:	LUCAS
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	15141
+Employee Ref:	5957
+Normal Rights
+	Reader Groups
+		METZGER PARK SHARED @ 0000513#(C1) Always
+		Everyone Gets @ 0000513#(C1) Always
+	Readers
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+
+Last Name:	HILLSBORO
+First Name:	FIRE DEPT
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	2597
+Employee Ref:	
+Normal Rights
+	Reader Groups
+		Walnut St. All @ 0000513#(C1) Always
+	Readers
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+
+Last Name:	HILLSBORO
+First Name:	POLICE DEPARTMENT
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	8584
+Employee Ref:	
+Normal Rights
+	Access Codes
+		MASTER
+	Readers
+		COURTHOUSE LOADING DOCK EXIT 2100 @ 0000513#(C1) Always
+		COURTHOUSE LOADING DOCK ENTRY 2100 @ 0000513#(C1) Always
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+
+Last Name:	HODGES
+First Name:	BEN
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	19505
+Employee Ref:	
+Normal Rights
+	Reader Groups
+		FMB ALL DOORS @ 0000513#(C1) Always
+		METZGER PARK SHARED @ 0000513#(C1) Always
+		PSB PERIMETER DOORS @ 0000513#(C1) Always
+	Readers
+		HARKINS CENTRAL SERVICES GATE  P2 @ 0000513#(C1) Always
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+
+Last Name:	HUGHES
+First Name:	MISSY
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	15012
+Employee Ref:	5909
+Normal Rights
+	Access Codes
+		MASTER
+	Readers
+		COURTHOUSE LOADING DOCK EXIT 2100 @ 0000513#(C1) Always
+		COURTHOUSE LOADING DOCK ENTRY 2100 @ 0000513#(C1) Always
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+
+Last Name:	HVAC VAN-JAIL
+First Name:	GATE ONLY
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	5597
+Employee Ref:	
+Normal Rights
+	Readers
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+		JAIL GATE RECEIVING @ 0000513#(C1) Always
+
+Last Name:	IES
+First Name:	MARK EPLING
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	10488
+Employee Ref:	
+Normal Rights
+	Access Codes
+		WINGSPAN OFFICE AND EVENT CTR
+	Reader Groups
+		MASTER NO CALEA @ 0000513#(C1) Always
+	Readers
+		COURTHOUSE LOADING DOCK EXIT 2100 @ 0000513#(C1) Always
+		COURTHOUSE LOADING DOCK ENTRY 2100 @ 0000513#(C1) Always
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+
+Last Name:	JACOBS
+First Name:	JULIE
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	8486
+Employee Ref:	
+Normal Rights
+	Readers
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+
+Last Name:	JAIL RANGER
+First Name:	GATE CARD
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	1549
+Employee Ref:	
+Normal Rights
+	Reader Groups
+		Walnut Street Gate Entry @ 0000513#(C1) Always
+	Readers
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+		JAIL LEC GATE ADAMS ST. ENTRY @ 0000513#(C1) Always
+		JAIL LEC GATE ADAMS ST. EXIT @ 0000513#(C1) Always
+		JAIL LEC GATE BASELINE ST. ENTRY @ 0000513#(C1) Always
+		JAIL LEC GATE BASELINE ST. EXIT @ 0000513#(C1) Always
+		JAIL GATE RECEIVING @ 0000513#(C1) Always
+		JAIL PATROL GATE  DENNIS ST. ENTRY @ 0000513#(C1) Always
+		JAIL BOARD 1 INPUT 2 @ 0000513#(C1) Always
+
+Last Name:	KAUFMANN
+First Name:	MARK
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	17801
+Employee Ref:	
+Normal Rights
+	Access Codes
+		MASTER
+	Readers
+		COURTHOUSE LOADING DOCK EXIT 2100 @ 0000513#(C1) Always
+		COURTHOUSE LOADING DOCK ENTRY 2100 @ 0000513#(C1) Always
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+
+Last Name:	KESWANI
+First Name:	MAX
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	8526
+Employee Ref:	4646
+Normal Rights
+	Access Codes
+		MASTER
+	Reader Groups
+		County Corrections - All Readers @ 0000513#(C1) Always
+	Readers
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+		PSB 2ND FL 234-A TOUCHDOWN OFFICE @ 0000513#(C1) Always
+		PSB 2ND FL 234-B TOUCHDOWN OFFICE @ 0000513#(C1) Always
+
+Last Name:	KHALIFEH
+First Name:	BASSAM
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	5961
+	Card Number:(2)	9746
+Employee Ref:	177
+Normal Rights
+	Access Codes
+		MASTER
+	Readers
+		COURTHOUSE LOADING DOCK EXIT 2100 @ 0000513#(C1) Always
+		COURTHOUSE LOADING DOCK ENTRY 2100 @ 0000513#(C1) Always
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+
+Last Name:	KNOX BOX
+First Name:	JSB
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	3967
+Employee Ref:	
+Normal Rights
+	Reader Groups
+		WashCo @ 0000513#(C1) Always
+	Readers
+		COURTHOUSE LOADING DOCK EXIT 2100 @ 0000513#(C1) Always
+		COURTHOUSE LOADING DOCK ENTRY 2100 @ 0000513#(C1) Always
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+
+Last Name:	KNOX BOX
+First Name:	JUVENILE
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	3831
+Employee Ref:	
+Normal Rights
+	Reader Groups
+		WashCo @ 0000513#(C1) Always
+	Readers
+		COURTHOUSE LOADING DOCK EXIT 2100 @ 0000513#(C1) Always
+		COURTHOUSE LOADING DOCK ENTRY 2100 @ 0000513#(C1) Always
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+
+Last Name:	KNOX BOX
+First Name:	METZGER
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	3829
+Employee Ref:	
+Normal Rights
+	Reader Groups
+		METZGER PARK SHARED @ 0000513#(C1) Always
+	Readers
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+
+Last Name:	KNOX BOX
+First Name:	PSB
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	5286
+Employee Ref:	
+Normal Rights
+	Reader Groups
+		WashCo @ 0000513#(C1) Always
+	Readers
+		COURTHOUSE LOADING DOCK EXIT 2100 @ 0000513#(C1) Always
+		COURTHOUSE LOADING DOCK ENTRY 2100 @ 0000513#(C1) Always
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+
+Last Name:	LANDLORD
+First Name:	DAVS
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	8598
+Employee Ref:	
+Normal Rights
+	Readers
+		EYP DAVS MAIN ENTRY @ 0000513#(C1) Always
+		EYP DAVS LOBBY TO OFFICE 124 @ 0000513#(C1) Always
+		EYP DAVS LOBBY TO OFFICE 123 @ 0000513#(C1) Always
+		EYP DAVS CONFERENCE ROOM 119 @ 0000513#(C1) Always
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+
+Last Name:	LEE KUNERT
+First Name:	DIANE
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	8408
+Employee Ref:	6101
+Normal Rights
+	Access Codes
+		MASTER
+		WINGSPAN MASTER
+	Readers
+		COURTHOUSE LOADING DOCK EXIT 2100 @ 0000513#(C1) Always
+		COURTHOUSE LOADING DOCK ENTRY 2100 @ 0000513#(C1) Always
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+		WSCC 1205 OFFICE @ 0000513#(C1) Always
+
+Last Name:	LITTLE
+First Name:	SEAN
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	19800
+Employee Ref:	
+Normal Rights
+	Reader Groups
+		FMB ALL DOORS @ 0000513#(C1) Always
+		METZGER PARK SHARED @ 0000513#(C1) Always
+		PSB PERIMETER DOORS @ 0000513#(C1) Always
+	Readers
+		HARKINS CENTRAL SERVICES GATE  P2 @ 0000513#(C1) Always
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+
+Last Name:	LOANER
+First Name:	WSCC
+Middle Name:	K
+Multiple Cards
+	Card Number:(1)	11257
+Employee Ref:	
+Normal Rights
+	Access Codes
+		WSCC
+	Readers
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+
+Last Name:	LONG
+First Name:	JIM
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	8704
+Employee Ref:	
+Normal Rights
+	Reader Groups
+		METZGER PARK SHARED @ 0000513#(C1) Always
+	Readers
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+
+Last Name:	LOPEZ RUANO
+First Name:	RENE
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	19430
+Employee Ref:	
+Normal Rights
+	Access Codes
+		MASTER
+	Reader Groups
+		Everyone Gets @ 0000513#(C1) Always
+		FMB ALL DOORS @ 0000513#(C1) Always
+		PSB PERIMETER DOORS @ 0000513#(C1) Always
+	Readers
+		COURTHOUSE LOADING DOCK EXIT 2100 @ 0000513#(C1) Always
+		COURTHOUSE LOADING DOCK ENTRY 2100 @ 0000513#(C1) Always
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+
+Last Name:	McCOWAN
+First Name:	JEFF
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	10352
+Employee Ref:	
+Normal Rights
+	Reader Groups
+		JSB READER GROUP @ 0000513#(C1) Always
+	Readers
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+
+Last Name:	MCFARLAND
+First Name:	JAN
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	17235
+Employee Ref:	3511
+Normal Rights
+	Reader Groups
+		PSB PERIMETER DOORS @ 0000513#(C1) Always
+		PSB SUITE 270 @ 0000513#(C1) Always
+	Readers
+		HARKINS CENTRAL SERVICES GATE  P2 @ 0000513#(C1) Always
+		WSCC BACK DOOR @ 0000513#(C1) Always
+		WSCC ADA FRONT DOOR ENTRANCE @ 0000513#(C1) Always
+		WSCC AUDITORS OFFICE FRONT DOOR @ 0000513#(C1) Always
+		F&PS FRONT DOOR @ 0000513#(C1) Always
+		WSCC CFVS INTERIOR HALL DOOR @ 0000513#(C1) Always
+		WSCC CFVS BACK DOOR @ 0000513#(C1) Always
+		F&PS INTERIOR DISPATCHERS DOOR @ 0000513#(C1) Always
+		F&PS INTERIOR COPY ROOM DOOR @ 0000513#(C1) Always
+		F&PS  INTERIOR EAST CAPITAL DOOR @ 0000513#(C1) Always
+		F&PS INTERIOR WEST CAPITAL DOOR @ 0000513#(C1) Always
+		F&PS-2ND FLOOR NORTH ENTRY @ 0000513#(C1) Always
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+		WSCC WOMENS LOCKER RM @ 0000513#(C1) Always
+		WSCC WASHINGTON ST ENTRANCE @ 0000513#(C1) Always
+		PSB 3RD FL 300A CAO LOBBY TO STAFF @ 0000513#(C1) Always
+		PSB 3RD FL 300B CAO LOBBY @ 0000513#(C1) Always
+		F&PS BASEMENT EAST DOOR @ 0000513#(C1) Always
+		F&PS BASEMENT JUVENILE DOOR @ 0000513#(C1) Always
+		F&PS Finance @ 0000513#(C1) Always
+		WSCC BIKE CORRAL @ 0000513#(C1) Always
+		WSCC AUDITORS BACK DOOR @ 0000513#(C1) Always
+		F&PS BACK DOOR @ 0000513#(C1) Always
+
+Last Name:	MCKINSTRY
+First Name:	CALANDRA
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	7222
+Employee Ref:	3094
+Normal Rights
+	Access Codes
+		SUPPORT SERVICES W FILE ROOM
+	Reader Groups
+		FMB ALL DOORS @ 0000513#(C1) Always
+		PSB SUITE 270 @ 0000513#(C1) Always
+		PSB PERIMETER DOORS @ 0000513#(C1) Always
+	Readers
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+
+Last Name:	MENDOZA
+First Name:	ANGELINA
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	18863
+Employee Ref:	
+Normal Rights
+	Reader Groups
+		PSB PERIMETER DOORS @ 0000513#(C1) Always
+		FMB ALL DOORS @ 0000513#(C1) Always
+	Readers
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+
+Last Name:	MEYER
+First Name:	KYLE
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	20011
+Employee Ref:	
+Normal Rights
+	Access Codes
+		MASTER
+	Reader Groups
+		F&PS P-5 GATE @ 0000513#(C1) Always
+		Walnut St. All @ 0000513#(C1) Always
+	Readers
+		COURTHOUSE LOADING DOCK EXIT 2100 @ 0000513#(C1) Always
+		COURTHOUSE LOADING DOCK ENTRY 2100 @ 0000513#(C1) Always
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+
+Last Name:	MONROE
+First Name:	JOHN
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	19465
+Employee Ref:	
+Normal Rights
+	Access Codes
+		MASTER
+	Readers
+		COURTHOUSE LOADING DOCK EXIT 2100 @ 0000513#(C1) Always
+		COURTHOUSE LOADING DOCK ENTRY 2100 @ 0000513#(C1) Always
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+
+Last Name:	MORA
+First Name:	ROBERT
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	20023
+	Card Number:(2)	20246
+Employee Ref:	
+Normal Rights
+	Reader Groups
+		ADAMS CROSSING HOUSING @ 0000513#(C1) Always
+		ADAMS CROSSING PUBLIC EXTERIOR DOORS @ 0000513#(C1) Always
+		BLANTON @ 0000513#(C1) Always
+		BLANTON GATES @ 0000513#(C1) Always
+		COURTS BASIC @ 0000513#(C1) Always
+		ELECTIONS MASTER @ 0000513#(C1) Always
+		Everyone Gets @ 0000513#(C1) Always
+		FMB ALL DOORS @ 0000513#(C1) Always
+		HARKINS HOUSE STAFF @ 0000513#(C1) Always
+		HAWTHORN GROUP E @ 0000513#(C1) Always
+		J.S.B. @ 0000513#(C1) Always
+		JUVENILE EXTERIOR DOORS @ 0000513#(C1) Always
+		LAW LIBRARY EMPLOYEE @ 0000513#(C1) Always
+		METZGER PARK SHARED @ 0000513#(C1) Always
+		MURRAY JUSTICE COURT @ 0000513#(C1) Always
+		PSA ALL DOORS @ 0000513#(C1) Always
+		PSB AUDITORIUM DOORS @ 0000513#(C1) Always
+		PSB HEALTH NEW @ 0000513#(C1) Always
+		PSB PERIMETER DOORS @ 0000513#(C1) Always
+		PSB- DCAP @ 0000513#(C1) Always
+		WASHINGTON STREET CONFERENCE CENTER @ 0000513#(C1) Always
+		WEST SLOPE LIBRARY @ 0000513#(C1) Always
+		WSCC ENTRY DOORS @ 0000513#(C1) Always
+		Walnut St. All @ 0000513#(C1) Always
+		PSB A&T 1ST 2ND FLOOR @ 0000513#(C1) Always
+		PSB LUT NEW @ 0000513#(C1) Always
+		PSB SUITE 270 @ 0000513#(C1) Always
+		PSB SUITE 250- LUT @ 0000513#(C1) Always
+	Readers
+		COURTHOUSE LOADING DOCK EXIT 2100 @ 0000513#(C1) Always
+		COURTHOUSE LOADING DOCK ENTRY 2100 @ 0000513#(C1) Always
+		JSB 4TH FLOOR ELEVATOR @ 0000513#(C1) Always
+		HARKINS CENTRAL SERVICES GATE  P2 @ 0000513#(C1) Always
+		WSC 2100 #2 TELECOM RM @ 0000513#(C1) Always
+		JSB 1ST FL EMPLOYEE RESTROOM #2 @ 0000513#(C1) Always
+		JSB 1ST FL EMPLOYEE RESTROOM #1 @ 0000513#(C1) Always
+
+Last Name:	MUMMADI
+First Name:	VAMSHI KRISHNA
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	20367
+Employee Ref:	
+Normal Rights
+	Access Codes
+		FACILITIES OFFICE ONLY
+	Readers
+		ADAMS ANNEX ENTRY LUT BLDG SERVICES @ 0000513#(C1) Always
+
+Last Name:	NEWELL
+First Name:	NIKIA
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	15166
+Employee Ref:	
+Normal Rights
+	Access Codes
+		JANITORIAL COUNTY MASTER
+	Readers
+		COURTHOUSE LOADING DOCK EXIT 2100 @ 0000513#(C1) Always
+		COURTHOUSE LOADING DOCK ENTRY 2100 @ 0000513#(C1) Always
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+
+Last Name:	NOLIN
+First Name:	TRACEY
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	9107
+Employee Ref:	2599
+Normal Rights
+	Reader Groups
+		HARKINS HOUSE STAFF @ 0000513#(C1) Always
+		JuvServ @ 0000513#(C1) Always
+		FMB ALL DOORS @ 0000513#(C1) Always
+		PSB PERIMETER DOORS @ 0000513#(C1) Always
+		MASTER NO CALEA @ 24HRS M-F
+	Readers
+		COURTHOUSE LOADING DOCK EXIT 2100 @ 0000513#(C1) Always
+		COURTHOUSE LOADING DOCK ENTRY 2100 @ 0000513#(C1) Always
+		OLD JAIL NORTH LINCOLN ENTRY @ 0000513#(C1) Always
+		OLD JAIL NORTH LINCOLN EXIT @ 0000513#(C1) Always
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+		PSB 2ND FL 270 HR STAIR C @ 0000513#(C1) Always
+		PSB 2ND FL 270 HR LOBBY @ 0000513#(C1) Always
+		PSB 2ND FL 270 HR LOBBY TO EMP SOUTH @ 0000513#(C1) Always
+		PSB 2ND FL 270 HR INT LOBBY TO EMP NORTH @ 0000513#(C1) Always
+
+Last Name:	NW COMMERCIAL
+First Name:	HAYES, STEVEN
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	10854
+	Card Number:(2)	18389
+Employee Ref:	
+Normal Rights
+	Access Codes
+		JANITORIAL COUNTY MASTER
+	Reader Groups
+		JANITORIAL LEC ACCESS @ 0000513#(C1) Always
+	Readers
+		COURTHOUSE LOADING DOCK EXIT 2100 @ 0000513#(C1) Always
+		COURTHOUSE LOADING DOCK ENTRY 2100 @ 0000513#(C1) Always
+		PSB 1ST FLOOR AUDITORIUM @ 0000513#(C1) Always
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+
+Last Name:	ORVIS
+First Name:	TRACY
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	20443
+Employee Ref:	
+Normal Rights
+	Access Codes
+		MASTER
+	Readers
+		COURTHOUSE LOADING DOCK EXIT 2100 @ 0000513#(C1) Always
+		COURTHOUSE LOADING DOCK ENTRY 2100 @ 0000513#(C1) Always
+
+Last Name:	PATEL
+First Name:	NISHA
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	19809
+	Card Number:(2)	20041
+Employee Ref:	
+Normal Rights
+	Reader Groups
+		Everyone Gets @ 0000513#(C1) Always
+		FMB ALL DOORS @ 0000513#(C1) Always
+		PSB PERIMETER DOORS @ 0000513#(C1) Always
+	Readers
+		HARKINS CENTRAL SERVICES GATE  P2 @ 0000513#(C1) Always
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+		ADAMS ANNEX ENTRY LUT BLDG SERVICES @ 0000513#(C1) Always
+
+Last Name:	POLLY
+First Name:	ROBIN
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	17292
+Employee Ref:	6014
+Normal Rights
+	Reader Groups
+		METZGER PARK SHARED @ 0000513#(C1) Always
+		Everyone Gets @ 0000513#(C1) Always
+		PSB PERIMETER DOORS @ 0000513#(C1) Always
+		PSB SUITE 270 @ 0000513#(C1) Always
+		SUPPORT SERVICES FILE ROOM @ 0000513#(C1) Always
+		SUPPORT SERVICES PSB @ 0000513#(C1) Always
+	Readers
+		F&PS FRONT DOOR @ 0000513#(C1) Always
+		F&PS INTERIOR DISPATCHERS DOOR @ 0000513#(C1) Always
+		F&PS INTERIOR COPY ROOM DOOR @ 0000513#(C1) Always
+		F&PS INTERIOR WEST CAPITAL DOOR @ 0000513#(C1) Always
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+		F&PS Finance @ 0000513#(C1) Always
+		PSB 2ND FL 285 VAULT  RM @ 0000513#(C1) Always
+		F&PS BACK DOOR @ 0000513#(C1) Always
+
+Last Name:	RAMIREZ LEDEZMA
+First Name:	CHRISTIAM
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	9134
+	Card Number:(2)	17803
+Employee Ref:	5637
+Normal Rights
+	Access Codes
+		MASTER
+	Readers
+		COURTHOUSE LOADING DOCK EXIT 2100 @ 0000513#(C1) Always
+		COURTHOUSE LOADING DOCK ENTRY 2100 @ 0000513#(C1) Always
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+
+Last Name:	REBEIRO
+First Name:	TIFFANY
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	20222
+Employee Ref:	
+Normal Rights
+	Reader Groups
+		Everyone Gets @ 0000513#(C1) Always
+		METZGER PARK SHARED @ 0000513#(C1) Always
+
+Last Name:	RICHMIRE
+First Name:	ADAM
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	10094
+Employee Ref:	5719
+Normal Rights
+	Access Codes
+		MASTER
+	Readers
+		COURTHOUSE LOADING DOCK EXIT 2100 @ 0000513#(C1) Always
+		COURTHOUSE LOADING DOCK ENTRY 2100 @ 0000513#(C1) Always
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+		JAIL 1542  PROPERTY ROOM INNER @ 0000513#(C1) Always
+		JAIL 1542  PROPERTY ROOM OUTER @ 0000513#(C1) Always
+		JAIL 1551  PROPERTY NORTH @ 0000513#(C1) Always
+		OLD JAIL MFF ARMORY @ 0000513#(C1) Always
+
+Last Name:	Rivera
+First Name:	Jesus
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	2534
+Employee Ref:	
+Normal Rights
+	Reader Groups
+		CONTRACTOR MASTER @ 0000513#(C1) Always
+		PSB PERIMETER DOORS @ 0000513#(C1) Always
+	Readers
+		OLD JAIL EXT DA'S FILE RM @ 0000513#(C1) Always
+		OLD JAIL NORTH BASEMENT ENTRY @ 0000513#(C1) Always
+		COURTHOUSE LOADING DOCK EXIT 2100 @ 0000513#(C1) Always
+		COURTHOUSE LOADING DOCK ENTRY 2100 @ 0000513#(C1) Always
+		OLD JAIL S. BASEMENT TO CH BASEMENT @ 0000513#(C1) Always
+		OLD JAIL 1ST FLOOR STAIRWELL ENTRY @ 0000513#(C1) Always
+		F&PS FRONT DOOR @ 0000513#(C1) Always
+		F&PS  INTERIOR EAST CAPITAL DOOR @ 0000513#(C1) Always
+		F&PS-2ND FLOOR NORTH ENTRY @ 0000513#(C1) Always
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+		JAIL LEC 2042 DETECTIVES @ 0000513#(C1) Always
+		JAIL LEC 1006 RECORDS LOBBY TO CONF ROOM @ 0000513#(C1) Always
+		JAIL LEC 1018B ADAMS ST TO EMPLOYEE CORR @ 0000513#(C1) Always
+		JAIL LEC 1007B RECORDS AND WARRANTS EAST @ 0000513#(C1) Always
+		JAIL LEC 1007A RECORDS AND WARRANTS WEST @ 0000513#(C1) Always
+		JAIL LEC 2047 DETECTIVES @ 0000513#(C1) Always
+		F&PS BACK DOOR @ 0000513#(C1) Always
+
+Last Name:	ROBB
+First Name:	BRYAN
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	10599
+Employee Ref:	4838
+Normal Rights
+	Access Codes
+		MASTER
+	Readers
+		COURTHOUSE LOADING DOCK EXIT 2100 @ 0000513#(C1) Always
+		COURTHOUSE LOADING DOCK ENTRY 2100 @ 0000513#(C1) Always
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+
+Last Name:	ROBLES
+First Name:	OSCAR
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	5248
+	Card Number:(2)	20027
+	Card Number:(3)	20035
+Employee Ref:	276
+Normal Rights
+	Access Codes
+		MASTER
+	Reader Groups
+		County Corrections - All Readers @ 0000513#(C1) Always
+	Readers
+		COURTHOUSE LOADING DOCK EXIT 2100 @ 0000513#(C1) Always
+		COURTHOUSE LOADING DOCK ENTRY 2100 @ 0000513#(C1) Always
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+		WSC 2100 #2 DATA CENTER EAST @ 0000513#(C1) Always
+		WSC 2100 #2 DATA CENTER WEST @ 0000513#(C1) Always
+		JAIL 1542  PROPERTY ROOM INNER @ 0000513#(C1) Always
+		JAIL 1542  PROPERTY ROOM OUTER @ 0000513#(C1) Always
+		JAIL 1551  PROPERTY NORTH @ 0000513#(C1) Always
+		JAIL 1069  DVR ROOM ENTRY @ 0000513#(C1) Always
+		JAIL 1069  DVR ROOM EXIT @ 0000513#(C1) Always
+		JAIL LEC 2091 PUBLIC AFFARIRS STUDIO @ 0000513#(C1) Always
+		JAIL 1819 POD 5 BREAK ROOM @ 0000513#(C1) Always
+		OLD JAIL BASEMENT KEYSHOP @ 0000513#(C1) Always
+
+Last Name:	ROVING SECURITY
+First Name:	DT CAMPUS
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	10025
+	Card Number:(2)	20006
+Employee Ref:	
+Normal Rights
+	Access Codes
+		PUBLIC SERVICES ANNEX (PSA)
+		LUT ADAMS CROSSING
+	Reader Groups
+		FMB ALL DOORS @ 0000513#(C1) Always
+		General @ 0000513#(C1) Always
+		WashCo @ 0000513#(C1) Always
+		Walnut St. All @ 0000513#(C1) Always
+		WASHINGTON STREET CONFERENCE CENTER @ 0000513#(C1) Always
+		PSB PERIMETER DOORS @ 0000513#(C1) Always
+		ADAMS CROSSING PUBLIC EXTERIOR DOORS @ 0000513#(C1) Always
+		ALL ITS DATA ROOMS @ 0000513#(C1) Always
+	Readers
+		COURTHOUSE LOADING DOCK EXIT 2100 @ 0000513#(C1) Always
+		COURTHOUSE LOADING DOCK ENTRY 2100 @ 0000513#(C1) Always
+		HARKINS N. MAIN VESTIBULE * @ 0000513#(C1) Always
+		PSB 1ST FLOOR AUDITORIUM @ 0000513#(C1) Always
+		F&PS P-5 SOUTH GATE @ 0000513#(C1) Always
+		F&PS P-5 NORTH GATE @ 0000513#(C1) Always
+		WSCC CFVS BACK DOOR @ 0000513#(C1) Always
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+		PSB 1ST FL 101A  NORTH AUDITORIUM ENTRY @ 0000513#(C1) Always
+		PSB 1ST FL 101B  SOUTH AUDITORIUM ENTRY @ 0000513#(C1) Always
+		PSB BASEMENT STAIRWAY B @ 0000513#(C1) Always
+		PSB 3RD FLOOR STAIRWELL B @ 0000513#(C1) Always
+
+Last Name:	SAYAGO
+First Name:	LORI
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	11378
+Employee Ref:	5889
+Normal Rights
+	Reader Groups
+		METZGER PARK SHARED @ 0000513#(C1) Always
+	Readers
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+
+Last Name:	SCHOCH
+First Name:	MARK
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	15063
+	Card Number:(2)	17894
+Employee Ref:	5462
+Normal Rights
+	Access Codes
+		MASTER
+	Reader Groups
+		County Corrections - All Readers @ 0000513#(C1) Always
+	Readers
+		COURTHOUSE LOADING DOCK EXIT 2100 @ 0000513#(C1) Always
+		COURTHOUSE LOADING DOCK ENTRY 2100 @ 0000513#(C1) Always
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+		WSC 2100 #2 DATA CENTER EAST @ 0000513#(C1) Always
+		WSC 2100 #2 DATA CENTER WEST @ 0000513#(C1) Always
+		JAIL 1069  DVR ROOM ENTRY @ 0000513#(C1) Always
+		JAIL 1069  DVR ROOM EXIT @ 0000513#(C1) Always
+
+Last Name:	SMITH
+First Name:	TIMOTHY
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	8535
+	Card Number:(2)	10169
+	Card Number:(3)	20045
+	Card Number:(4)	20099
+Employee Ref:	2688
+Normal Rights
+	Access Codes
+		MASTER
+	Reader Groups
+		County Corrections - All Readers @ 0000513#(C1) Always
+	Readers
+		COURTHOUSE LOADING DOCK EXIT 2100 @ 0000513#(C1) Always
+		COURTHOUSE LOADING DOCK ENTRY 2100 @ 0000513#(C1) Always
+		WSCC ROOM 112 ENTRY @ 0000513#(C1) Always
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+		WSC 2100 #2 EOC RM @ 0000513#(C1) Always
+		ADAMS CROSSING 103 1ST FL CONFER INT DR @ 0000513#(C1) Always
+		CENTRAL SERVICES READER 1 @ 0000513#(C1) Always
+		JAIL 1542  PROPERTY ROOM INNER @ 0000513#(C1) Always
+		JAIL 1542  PROPERTY ROOM OUTER @ 0000513#(C1) Always
+		JAIL 1551  PROPERTY NORTH @ 0000513#(C1) Always
+		PSB 2ND FL 234-A TOUCHDOWN OFFICE @ 0000513#(C1) Always
+		PSB 2ND FL 234-B TOUCHDOWN OFFICE @ 0000513#(C1) Always
+		PSTC EXIT STAIR 4 @ 0000513#(C1) Always
+		PSTC HALL DOOR H4-H7 @ 0000513#(C1) Always
+		PSTC  STAIR3 @ 0000513#(C1) Always
+
+Last Name:	SOINE
+First Name:	CHRIS
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	17150
+Employee Ref:	5638
+Normal Rights
+	Access Codes
+		MASTER
+	Readers
+		COURTHOUSE LOADING DOCK EXIT 2100 @ 0000513#(C1) Always
+		COURTHOUSE LOADING DOCK ENTRY 2100 @ 0000513#(C1) Always
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+
+Last Name:	SOLBERG-BELL
+First Name:	DOUGLAS
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	17849
+Employee Ref:	5234
+Normal Rights
+	Access Codes
+		CENTRAL SERVICES
+		ADAMS CROSSING HOUSING ALWAYS
+		MASTER
+	Reader Groups
+		CENTRAL SERVICE LIMITED @ CENTRAL SERVICE LIMITED M-F 06:00-18:30
+		HARKINS HOUSE STAFF @ CENTRAL SERVICE LIMITED M-F 06:00-18:30
+		Jail 1718 Receiving @ CENTRAL SERVICE LIMITED M-F 06:00-18:30
+		Jail Dock Gate @ CENTRAL SERVICE LIMITED M-F 06:00-18:30
+		Jail Patrol Gate East Entry @ CENTRAL SERVICE LIMITED M-F 06:00-18:30
+		Jail Patrol Gate East Exit @ CENTRAL SERVICE LIMITED M-F 06:00-18:30
+		Jail Patrol Gate S.E. Entry @ CENTRAL SERVICE LIMITED M-F 06:00-18:30
+		Jail Patrol Gate S.E. Exit @ CENTRAL SERVICE LIMITED M-F 06:00-18:30
+		Jail Patrol Gate S.W. Entry @ CENTRAL SERVICE LIMITED M-F 06:00-18:30
+		Jail Patrol Gate S.W. Exit @ CENTRAL SERVICE LIMITED M-F 06:00-18:30
+		MULTNOMAH COUNTY @ CENTRAL SERVICE LIMITED M-F 06:00-18:30
+		PSB SUITE 270 @ CENTRAL SERVICE LIMITED M-F 06:00-18:30
+		County Corrections - All Readers @ 0000513#(C1) Always
+		WINGSPAN EVENT CENTER @ 0000513#(C1) Always
+		WINGSPAN GATES @ 0000513#(C1) Always
+	Readers
+		COURTHOUSE LOADING DOCK EXIT 2100 @ 0000513#(C1) Always
+		COURTHOUSE LOADING DOCK ENTRY 2100 @ 0000513#(C1) Always
+		SCE FRONT ENTRY * @ 0000513#(C1) Always
+		SCE SO LOBBY TO ADMIN @ 0000513#(C1) Always
+		SCE SO MAIN LOBBY EXT. * @ 0000513#(C1) Always
+		F&PS FRONT DOOR @ 0000513#(C1) Always
+		EYP DAVS MAIN ENTRY @ 0000513#(C1) Always
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+		EYP 100 LIFEWORKS MAIN ENTRY @ 0000513#(C1) Always
+		EYP 150 HHS ENTRY LOBBY @ 0000513#(C1) Always
+		EYP DAVS BACK DOOR @ 0000513#(C1) Always
+		JAIL LEC 2076 HALLWAY @ 0000513#(C1) Always
+		JAIL LEC 2088 BREAK VENDING ROOM @ 0000513#(C1) Always
+		JAIL LEC 2047 DETECTIVES @ 0000513#(C1) Always
+		F&PS Finance @ 0000513#(C1) Always
+		F&PS BACK DOOR @ 0000513#(C1) Always
+
+Last Name:	SPAFFORD
+First Name:	STUART
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	17854
+	Card Number:(2)	18035
+	Card Number:(3)	18044
+Employee Ref:	
+Normal Rights
+	Access Codes
+		MASTER
+	Readers
+		COURTHOUSE LOADING DOCK EXIT 2100 @ 0000513#(C1) Always
+		COURTHOUSE LOADING DOCK ENTRY 2100 @ 0000513#(C1) Always
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+
+Last Name:	SPLINTER-FELTON
+First Name:	ANDREW
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	10022
+Employee Ref:	5697
+Normal Rights
+	Reader Groups
+		FMB ALL DOORS @ 0000513#(C1) Always
+		METZGER PARK SHARED @ 0000513#(C1) Always
+	Readers
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+
+Last Name:	SUNBURG
+First Name:	LANCE
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	7561
+	Card Number:(2)	3545
+Employee Ref:	
+Normal Rights
+	Access Codes
+		MASTER
+	Readers
+		HARKINS CENTRAL SERVICES GATE  P2 @ 0000513#(C1) Always
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+		JAIL LEC 1001 GRAND LOBBY ENTRY @ 0000513#(C1) Always
+		JAIL LEC 1099 GRAND LOBBY TO JUDGES CORR @ 24HRS M-F
+		JAIL LEC 1094 ARRAIGNMENT SECURITY @ 0000513#(C1) Always
+		JAIL LEC 1008 COURT TO COURT SECURITY @ 0000513#(C1) Always
+
+Last Name:	Sutherland
+First Name:	Tyson
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	20036
+	Card Number:(2)	20499
+Employee Ref:	facilities
+Normal Rights
+	Access Codes
+		MASTER
+	Readers
+		COURTHOUSE LOADING DOCK EXIT 2100 @ 0000513#(C1) Always
+		COURTHOUSE LOADING DOCK ENTRY 2100 @ 0000513#(C1) Always
+
+Last Name:	SWITZER
+First Name:	CARL
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	9176
+Employee Ref:	5071
+Normal Rights
+	Reader Groups
+		FMB ALL DOORS @ 0000513#(C1) Always
+		PSB PERIMETER DOORS @ 0000513#(C1) Always
+		METZGER PARK SHARED @ 0000513#(C1) Always
+	Readers
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+
+Last Name:	TAYLOR
+First Name:	DEEANN
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	8562
+Employee Ref:	
+Normal Rights
+	Access Codes
+		MASTER
+
+Last Name:	TAYLOR
+First Name:	DEE-ANN
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	20038
+Employee Ref:	6167
+Normal Rights
+	Access Codes
+		MASTER
+		WINGSPAN MASTER
+	Readers
+		COURTHOUSE LOADING DOCK EXIT 2100 @ 0000513#(C1) Always
+		COURTHOUSE LOADING DOCK ENTRY 2100 @ 0000513#(C1) Always
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+
+Last Name:	THOMPSON
+First Name:	EMILY
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	10070
+	Card Number:(2)	17888
+Employee Ref:	5053
+Normal Rights
+	Reader Groups
+		FMB ALL DOORS @ 0000513#(C1) Always
+		PSB PERIMETER DOORS @ 0000513#(C1) Always
+		METZGER PARK SHARED @ 0000513#(C1) Always
+		Everyone Gets @ 0000513#(C1) Always
+	Readers
+		HARKINS CENTRAL SERVICES GATE  P2 @ 0000513#(C1) Always
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+		WSC 2100 #2  GATE ENTRY @ 5:30-18:00
+		WSC 2100 #2  GATE EXIT @ 5:30-18:00
+
+Last Name:	VALLERY
+First Name:	DEBRA
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	5300
+Employee Ref:	294
+Normal Rights
+	Access Codes
+		LUT ADAMS CROSSING
+		SUPPORT SERVICES W FILE ROOM
+	Reader Groups
+		WALNUT ST LUT @ 0000513#(C1) Always
+		WALNUT ST LUT-CONST @ 0000513#(C1) Always
+		WALNUT ST-EMERGENCY RESPONSE @ 0000513#(C1) Always
+		PSB LUT @ 0000513#(C1) Always
+		FMB ALL DOORS @ 0000513#(C1) Always
+		ADAMS CROSSING PUBLIC EXTERIOR DOORS @ 0000513#(C1) Always
+		MASTER NO CALEA @ 0000513#(C1) Always
+		PSB SUITE 270 @ 0000513#(C1) Always
+	Readers
+		COURTHOUSE LOADING DOCK EXIT 2100 @ 0000513#(C1) Always
+		COURTHOUSE LOADING DOCK ENTRY 2100 @ 0000513#(C1) Always
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+
+Last Name:	VANDEHEY
+First Name:	NORBERT
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	9127
+Employee Ref:	459
+Normal Rights
+	Access Codes
+		MASTER
+	Reader Groups
+		County Corrections - All Readers @ 0000513#(C1) Always
+		Jail 1542 Property Room Inner @ 0000513#(C1) Always
+		Jail 1542 Property Room Outer @ 0000513#(C1) Always
+		Jail 1551 Property North @ 0000513#(C1) Always
+	Readers
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+		WSC 2100 #2 DATA CENTER EAST @ 0000513#(C1) Always
+		WSC 2100 #2 DATA CENTER WEST @ 0000513#(C1) Always
+		JAIL 1542  PROPERTY ROOM INNER @ 0000513#(C1) Always
+		JAIL 1542  PROPERTY ROOM OUTER @ 0000513#(C1) Always
+		JAIL 1551  PROPERTY NORTH @ 0000513#(C1) Always
+		JAIL 1069  DVR ROOM ENTRY @ 0000513#(C1) Always
+		JAIL 1069  DVR ROOM EXIT @ 0000513#(C1) Always
+
+Last Name:	VANDERZANDEN
+First Name:	MACKENZIE
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	19832
+Employee Ref:	
+Normal Rights
+	Reader Groups
+		Everyone Gets @ 0000513#(C1) Always
+		PSB PERIMETER DOORS @ 0000513#(C1) Always
+		Walnut St. All @ 0000513#(C1) Always
+		FMB ALL DOORS @ 0000513#(C1) Always
+	Readers
+		ADAMS ANNEX SUITE 231 @ 0000513#(C1) Always
+		ADAMS ANNEX ENTRY LUT BLDG SERVICES @ 0000513#(C1) Always
+		ADAMS ANNEX WSC CLIMATE CONTROLLED @ 0000513#(C1) Always
+		ADAMS ANNEX EMS 241 @ 0000513#(C1) Always
+		ADAMS ANNEX SOLID WASTE/RECYCLING @ 0000513#(C1) Always
+
+Last Name:	VANDOMELEN
+First Name:	SCOTT
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	3892
+	Card Number:(2)	6434
+Employee Ref:	461
+Normal Rights
+	Access Codes
+		MASTER
+	Reader Groups
+		County Corrections - All Readers @ 0000513#(C1) Always
+	Readers
+		COURTHOUSE LOADING DOCK EXIT 2100 @ 0000513#(C1) Always
+		COURTHOUSE LOADING DOCK ENTRY 2100 @ 0000513#(C1) Always
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+		WSC 2100 #2 DATA CENTER EAST @ 0000513#(C1) Always
+		WSC 2100 #2 DATA CENTER WEST @ 0000513#(C1) Always
+		JAIL 1069  DVR ROOM ENTRY @ 0000513#(C1) Always
+		JAIL 1069  DVR ROOM EXIT @ 0000513#(C1) Always
+		JAIL BOARD 1 INPUT 4 @ 0000513#(C1) Always
+		JAIL 1819 POD 5 BREAK ROOM @ 0000513#(C1) Always
+
+Last Name:	vandomelen
+First Name:	scott
+Middle Name:	loaner
+Multiple Cards
+	Card Number:(1)	9822
+Employee Ref:	461
+Normal Rights
+	Access Codes
+		MASTER NO JAIL OR CHILD PROTECTION
+	Reader Groups
+		CONTRACTOR MASTER @ 0000513#(C1) Always
+	Readers
+		COURTHOUSE LOADING DOCK EXIT 2100 @ 0000513#(C1) Always
+		COURTHOUSE LOADING DOCK ENTRY 2100 @ 0000513#(C1) Always
+		JAIL 1726  MAINTENANCE SHOP @ 0000513#(C1) Always
+
+Last Name:	WAHL
+First Name:	ELISE
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	19453
+Employee Ref:	
+Normal Rights
+	Reader Groups
+		Everyone Gets @ 0000513#(C1) Always
+		FMB ALL DOORS @ 0000513#(C1) Always
+		METZGER PARK SHARED @ 0000513#(C1) Always
+	Readers
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+
+Last Name:	WCCCA
+First Name:	RON POLLUCONI
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	9423
+Employee Ref:	
+Normal Rights
+	Access Codes
+		SHERIFF STAFF RESTRICTED
+	Reader Groups
+		OLD JAIL BASEMENT @ 0000513#(C1) Always
+	Readers
+		COURTHOUSE LOADING DOCK EXIT 2100 @ 0000513#(C1) Always
+		COURTHOUSE LOADING DOCK ENTRY 2100 @ 0000513#(C1) Always
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+		PSTC 146 CHECK POINT @ 0000513#(C1) Always
+		PSTC 121 CHECK POINT @ 0000513#(C1) Always
+		PSTC 163 SECURITY ROOM @ 0000513#(C1) Always
+
+Last Name:	WCCCA
+First Name:	Ted Leach
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	6207
+Employee Ref:	
+Normal Rights
+	Access Codes
+		SHERIFF STAFF RESTRICTED
+	Reader Groups
+		OLD JAIL BASEMENT @ 0000513#(C1) Always
+	Readers
+		COURTHOUSE LOADING DOCK EXIT 2100 @ 0000513#(C1) Always
+		COURTHOUSE LOADING DOCK ENTRY 2100 @ 0000513#(C1) Always
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+
+Last Name:	WEIMAN
+First Name:	GREGG
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	17958
+Employee Ref:	
+Normal Rights
+	Access Codes
+		MASTER
+	Readers
+		COURTHOUSE LOADING DOCK EXIT 2100 @ 0000513#(C1) Always
+		COURTHOUSE LOADING DOCK ENTRY 2100 @ 0000513#(C1) Always
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+		WSCC 1205 OFFICE @ 0000513#(C1) Always
+
+Last Name:	WILLIAMS
+First Name:	JOHN
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	8675
+	Card Number:(2)	3022
+	Card Number:(3)	7591
+	Card Number:(4)	10046
+	Card Number:(5)	17853
+Employee Ref:	4577
+Normal Rights
+	Access Codes
+		MASTER
+	Reader Groups
+		EOC 3-26-20 @ 0000513#(C1) Always
+	Readers
+		COURTHOUSE LOADING DOCK EXIT 2100 @ 0000513#(C1) Always
+		COURTHOUSE LOADING DOCK ENTRY 2100 @ 0000513#(C1) Always
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+		OLD JAIL BASEMENT KEYSHOP @ 0000513#(C1) Always
+
+Last Name:	WIRZ
+First Name:	JACK
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	8470
+Employee Ref:	
+Normal Rights
+	Reader Groups
+		METZGER PARK SHARED @ 0000513#(C1) Always
+	Readers
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+
+Last Name:	WSCC
+First Name:	FAC
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	5980
+Employee Ref:	
+Normal Rights
+	Reader Groups
+		WASHINGTON STREET CONFERENCE CENTER @ 0000513#(C1) Always
+	Readers
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+
+Last Name:	WSCC
+First Name:	FAC
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	8331
+Employee Ref:	
+Normal Rights
+	Access Codes
+		FACILITIES OFFICE ONLY
+	Reader Groups
+		WASHINGTON STREET CONFERENCE CENTER @ 0000513#(C1) Always
+	Readers
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+
+Last Name:	WSCC
+First Name:	FAC
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	9613
+Employee Ref:	
+Normal Rights
+	Reader Groups
+		WASHINGTON STREET CONFERENCE CENTER @ 0000513#(C1) Always
+	Readers
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+
+Last Name:	WSCC
+First Name:	FAC
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	9766
+Employee Ref:	
+Normal Rights
+	Reader Groups
+		WASHINGTON STREET CONFERENCE CENTER @ 0000513#(C1) Always
+	Readers
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+
+Last Name:	WSCC
+First Name:	HPD3
+Middle Name:	
+Multiple Cards
+	Card Number:(1)	8588
+Employee Ref:	
+Normal Rights
+	Reader Groups
+		WASHINGTON STREET CONFERENCE CENTER @ 0000513#(C1) Always
+	Readers
+		WSCC ROOM 112 ENTRY @ 0000513#(C1) Always
+		WSC 2100 #2 FRONT ENTRY DOORS @ 0000513#(C1) Always
+
+
+Total Number of Records: 145
+
+
+                         ****End of Listing****                           
